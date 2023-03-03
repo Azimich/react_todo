@@ -1,0 +1,16 @@
+.add__list {
+  &__popup {
+    width: 235px;
+    height: 148px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+  }
+}
+
+.field {
+  background: #FFFFFF;
+  border: 1px solid #EFEFEF;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,24 @@
+.add__list {
+  &__popup {
+    width: 235px;
+    height: 148px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+  }
+}
+
+.field {
+    background: #FFFFFF;
+    border: 1px solid #EFEFEF;
+    border-radius: 4px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    letter-spacing: 0.15px;
+  
+    color: #C7C7C7;
+}
